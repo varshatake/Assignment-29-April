@@ -51,6 +51,7 @@ form{
     border-radius: 5px;
     size:80%;
     border-color: lightgrey lightgray;
+    border: none;
     
 }
 #email{
